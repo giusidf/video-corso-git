@@ -2,8 +2,9 @@
 
 uno dei miei piatti preferiti
 
-*speghetti
+*spaghetti
 *aglio
 *olio
 *peperoncino
+*prezzemolo
 
