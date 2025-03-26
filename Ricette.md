@@ -6,3 +6,4 @@ Questo archivio contiene tutte le ricette preferite di Giusi
 * Risotto ai funghi
 * Pennette alla carbonara
 * Minestrone di Verdure
+* Salmone al Cartoccio
