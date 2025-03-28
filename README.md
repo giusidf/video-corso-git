@@ -1,3 +1,8 @@
 # Video corso Git di Zavy
-Ciao
+
+## Autore
+* Manuel Zavatta
+
+## Collaboratori
+* Alice Loreti
 
